@@ -1,0 +1,19 @@
+.beneficios__container {
+    background-color: var(--fundo-cinza-card);
+    margin: 2em;
+    padding: 2em;
+}
+
+.beneficios__titulo {
+    color: var(--branco);
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.beneficios__quebra-de-linha {
+    margin: 3em 0;
+}
+
+.beneficios__lista__item {
+    padding: 0.3em 0;
+}

@@ -1,0 +1,20 @@
+@import url("styles/header.css");
+@import url("styles/beneficios.css");
+
+:root {
+    --fonte-principal: 'Inter', sans-serif;
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --cinza: #292929;
+    --cinza-claro: #999999;
+    --laranja: #FFB74B;
+    --fundo-cinza-card: #1A1A1A;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 16px;
+    background-color: var(--preto);
+    color: var(--branco);
+}
